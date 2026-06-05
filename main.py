@@ -1,4 +1,4 @@
-# Team: Vansh Joshi, Shipra PAtel
+# Team: Vansh Joshi, Shipra Patel
 
 from pong.game import Game
 import pygame
