@@ -1,4 +1,4 @@
-# Team: Vansh Joshi, Om Patel, Mathew Phan, Sarvvesh Vindokumar
+# Team: Vansh Joshi, Shipra Patel
 
 import pygame
 import random
