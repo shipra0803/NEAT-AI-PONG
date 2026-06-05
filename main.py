@@ -1,4 +1,4 @@
-# Team: Vansh Joshi, Om Patel, Mathew Phan, Sarvvesh Vindokumar
+# Team: Vansh Joshi, Shipra PAtel
 
 from pong.game import Game
 import pygame
